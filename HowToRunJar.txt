@@ -1,0 +1,15 @@
+How to run the JAR file
+
+Student name: Lucas De Oliveira
+Student number: C00298828
+
+To run the application, please follow these steps:
+
+1. Open the Project Part 2 folder.
+2. Make sure the lib folder is still inside the same folder as the app files.
+3.Go into the src folder
+4. Double-click run-app.bat.
+
+The .bat file will automatically open the newest CarMaintenanceApp*.jar file.
+
+If the application does not open, make sure the sqlite-jdbc jar file is inside the lib folder.
