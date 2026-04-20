@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": [
+        "."
+    ],
+    "java.project.referencedLibraries": [
+        "c:\\Users\\Lucas Gabriel\\Documents\\GitHub(Jasons classes)\\Project\\Project Part 2\\lib\\sqlite-jdbc.jar"
+    ]
+}
